@@ -53,7 +53,7 @@ list-style: none;
     top: 0;
     left: 0;
     background: /*url()*/rgb(114, 114, 235) no-repeat center center/cover;
-    background-image: url('../images/omkar2.png');
+    background-image: url('omkar2.png');
     height: 700px;
     width: 100%;
     z-index: -1;
